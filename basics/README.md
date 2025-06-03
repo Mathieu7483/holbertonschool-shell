@@ -1,1 +1,2 @@
-Readme text
+#!/bin/bash
+Readme Basics text
