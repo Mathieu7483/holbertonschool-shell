@@ -1,2 +1,2 @@
 #!/bin/bash
-env PATH
+echo $PATH |ls -l PATH |wc -l
