@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | cat -n | grep [13579][:space:] | cut -d -f2
+nl | grep [13579][[:space:]] | cut -f 2
