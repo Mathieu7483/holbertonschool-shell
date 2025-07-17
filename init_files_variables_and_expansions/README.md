@@ -59,41 +59,41 @@ Ce dépôt contient une série de scripts Bash, chacun illustrant un concept cl�
 
 README.md : Ce fichier.
 
-* **[Lien vers 0-alias]()** : Crée un alias nommé ls dont la valeur est rm -f *.
+* **[Lien vers 0-alias](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/0-alias)** : Crée un alias nommé ls dont la valeur est rm -f *.
 
-* **[Lien vers 1-hello_you]()** : Affiche hello user, où user est le nom d'utilisateur Linux actuel.
+* **[Lien vers 1-hello_you](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/1-hello_you)** : Affiche hello user, où user est le nom d'utilisateur Linux actuel.
 
-* **[Lien vers 2-path]()** : Ajoute /action à la variable d'environnement PATH, en s'assurant qu'il est le dernier répertoire recherché.
+* **[Lien vers 2-path](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/2-path)** : Ajoute /action à la variable d'environnement PATH, en s'assurant qu'il est le dernier répertoire recherché.
 
-* **[Lien vers 3-paths]()** : Compte le nombre de répertoires dans la variable PATH.
+* **[Lien vers 3-paths](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/3-paths)** : Compte le nombre de répertoires dans la variable PATH.
 
-* **[Lien vers 4-global_variables]()** : Liste toutes les variables d'environnement (globales).
+* **[Lien vers 4-global_variables](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/4-global_variables)** : Liste toutes les variables d'environnement (globales).
 
-* **[Lien vers 5-local_variables]()** : Liste toutes les variables locales, variables d'environnement et fonctions.
+* **[Lien vers 5-local_variables](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/5-local_variables)** : Liste toutes les variables locales, variables d'environnement et fonctions.
 
-* **[Lien vers 6-create_local_variable]()** : Crée une nouvelle variable locale nommée BEST avec la valeur School.
+* **[Lien vers 6-create_local_variable](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/6-create_local_variable)** : Crée une nouvelle variable locale nommée BEST avec la valeur School.
 
-* **[Lien vers 7-create_global_variable]()** : Crée une nouvelle variable globale nommée BEST avec la valeur School.
+* **[Lien vers 7-create_global_variable](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/7-create_global_variable)** : Crée une nouvelle variable globale nommée BEST avec la valeur School.
 
-* **[Lien vers 8-true_knowledge]()** : Affiche le résultat de l'addition de 128 avec la valeur de la variable d'environnement TRUEKNOWLEDGE.
+* **[Lien vers 8-true_knowledge](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/8-true_knowledge)** : Affiche le résultat de l'addition de 128 avec la valeur de la variable d'environnement TRUEKNOWLEDGE.
 
-* **[Lien vers 9-divide_and_rule]()** : Affiche le résultat de POWER divisé par DIVIDE (variables d'environnement).
+* **[Lien vers 9-divide_and_rule](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/9-divide_and_rule)** : Affiche le résultat de POWER divisé par DIVIDE (variables d'environnement).
 
-* **[Lien vers 10-love_exponent_breath]()** : Affiche le résultat de BREATH à la puissance LOVE (variables d'environnement).
+* **[Lien vers 10-love_exponent_breath](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/10-love_exponent_breath)** : Affiche le résultat de BREATH à la puissance LOVE (variables d'environnement).
 
-* **[Lien vers 11-binary_to_decimal]()** : Convertit un nombre de la base 2 (stocké dans BINARY) à la base 10.
+* **[Lien vers 11-binary_to_decimal](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/11-binary_to_decimal)** : Convertit un nombre de la base 2 (stocké dans BINARY) à la base 10.
 
-* **[Lien vers 12-combinations]()** : Affiche toutes les combinaisons possibles de deux lettres minuscules (de 'a' à 'z'), une par ligne, par ordre alphabétique, en excluant oo.
+* **[Lien vers 12-combinations](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/12-combinations)** : Affiche toutes les combinaisons possibles de deux lettres minuscules (de 'a' à 'z'), une par ligne, par ordre alphabétique, en excluant oo.
 
-* **[Lien vers 13-print_float]()** : Affiche un nombre (stocké dans NUM) avec deux décimales.
+* **[Lien vers 13-print_float](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/13-print_float)** : Affiche un nombre (stocké dans NUM) avec deux décimales.
 
-* **[Lien vers 14-decimal_to_hexadecimal]()** : Convertit un nombre de la base 10 (stocké dans DECIMAL) à la base 16.
+* **[Lien vers 14-decimal_to_hexadecimal](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/14-decimal_to_hexadecimal)** : Convertit un nombre de la base 10 (stocké dans DECIMAL) à la base 16.
 
-* **[Lien vers 15-rot13]()** : Encode et décode du texte en utilisant l'algorithme ROT13 (ASCII).
+* **[Lien vers 15-rot13](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/15-rot13)** : Encode et décode du texte en utilisant l'algorithme ROT13 (ASCII).
 
-* **[Lien vers 16-odd]()** : Affiche une ligne sur deux à partir de l'entrée, en commençant par la première ligne.
+* **[Lien vers 16-odd](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/16-odd)** : Affiche une ligne sur deux à partir de l'entrée, en commençant par la première ligne.
 
-* **[Lien vers 17-water_and_stir]()** : Additionne deux nombres stockés dans les variables d'environnement WATER (base "water") et STIR (base "stir"), et affiche le résultat en base "bestchol". (Tâche avancée, nécessite une compréhension des bases personnalisées).
+* **[Lien vers 17-water_and_stir](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/init_files_variables_and_expansions/17-water_and_stir)** : Additionne deux nombres stockés dans les variables d'environnement WATER (base "water") et STIR (base "stir"), et affiche le résultat en base "bestchol". (Tâche avancée, nécessite une compréhension des bases personnalisées).
 
 
 
