@@ -157,5 +157,5 @@ julien@ubuntu:/tmp$ ./12-file_type
 julien@ubuntu:/tmp$
 ```
 # ✍️ Auteur
-Mathieu - Élève en programmation
+Mathieu GODALIER - Élève en programmation
 
