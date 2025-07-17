@@ -95,9 +95,11 @@ README.md : Ce fichier.
 
 * **[Lien vers 24-gifs](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/io_redirections_and_filters/24-gifs)** : Liste tous les fichiers .gif (y compris cachés) du répertoire courant et de ses sous-répertoires, sans extension et triés par valeur d'octet (insensible à la casse).
 
-* **[Lien vers 25-acrostic](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/io_redirections_and_filters/25-acrostic)** : (Description de la tâche à compléter, si nécessaire pour le script).
+* **[Lien vers 25-acrostic](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/io_redirections_and_filters/25-acrostic)** : Écrire un script qui prendra un texte en entrée et affichera une chaîne de caractères formée par la première lettre de chaque ligne de ce texte.
 
-* **[Lien vers 26-The_biggest_fan](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/io_redirections_and_filters/26-the_biggest_fan)** Script qui
+* **[Lien vers 26-The_biggest_fan](https://github.com/Mathieu7483/holbertonschool-shell/blob/main/io_redirections_and_filters/26-the_biggest_fan)** Cet exercice consiste à créer un script Bash pour analyser les logs de serveurs web qui sont fournis au format TSV (Tab Separated Values). L'objectif est d'identifier et d'afficher les 11 hôtes ou adresses IP qui ont effectué le plus grand nombre de requêtes. Le résultat doit être trié par le nombre de requêtes, avec l'hôte/IP le plus actif en première position.
+
+La contrainte importante de cet exercice est l'interdiction d'utiliser des commandes comme grep, egrep, fgrep ou rgrep, ce qui pousse à utiliser d'autres outils de traitement de texte du Shell.
 
 💡 Contraintes et Bonnes Pratiques
 Ce projet adhère à des règles strictes pour garantir la qualité et la conformité des scripts :
@@ -195,4 +197,4 @@ julien@ubuntu:/tmp/h$
 ```
 
 # ✍️ Auteur
-Mathieu - Élève en programmation
+Mathieu GODALIER - Élève en programmation à la HOLBERTON SChool
