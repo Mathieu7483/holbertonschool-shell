@@ -117,18 +117,19 @@ Pour exécuter ces scripts, assure-toi d'être sur un système Ubuntu 22.04 LTS.
 
 Rends le script exécutable (une seule fois par script) :
 
-Bash
+```bash
 
 chmod u+x NOM_DU_SCRIPT
 Par exemple : chmod u+x 0-current_working_directory
 
 Exécute le script :
-
-Bash
+```
+```bash
 
 ./NOM_DU_SCRIPT
 Exemple dans un Terminal :
-Bash
+```
+```bash
 
 # Simule l'environnement initial
 julien@ubuntu:/tmp$ pwd
@@ -154,7 +155,7 @@ julien@ubuntu:/tmp$ ./12-file_type
 # Le script a bien affiché le type du fichier, qui est "empty" car nous venons de le créer.
 
 julien@ubuntu:/tmp$
-
+```
 # ✍️ Auteur
 Mathieu - Élève en programmation
 
