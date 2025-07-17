@@ -117,24 +117,25 @@ Environnement Ubuntu 20.04 LTS : Les scripts seront testés sur cette version sp
 Pour exécuter ces scripts, suivez ces étapes simples :
 
 Rendez le script exécutable (une seule fois par script) :
-
-Bash
+```bash
 
 chmod u+x NOM_DU_SCRIPT
 Exécutez le script :
 
 Certains scripts, comme ceux modifiant des variables d'environnement (PATH), doivent être sourced (exécutés dans le Shell courant) pour que leurs effets soient persistants dans votre session actuelle.
-
-Bash
+```
+```bash
 
 . ./NOM_DU_SCRIPT  # ou source ./NOM_DU_SCRIPT
 Les autres scripts peuvent être exécutés directement :
+```
 
-'''Bash
+```bash
 
 ./NOM_DU_SCRIPT
 Exemple dans un Terminal :
-Bash
+```
+```bash
 
 # Pour 1-hello_you
 julien@ubuntu:/tmp/0x03$ chmod u+x 1-hello_you
@@ -154,5 +155,7 @@ julien@production-503e7013:~$ export TRUEKNOWLEDGE=1209
 julien@production-503e7013:~$ chmod u+x 8-true_knowledge
 julien@production-503e7013:~$ ./8-true_knowledge | cat -e
 1337$
+```
+
 # ✍️ Auteur
 Mathieu GODALIER - Élève en programmation à la Holberton School
