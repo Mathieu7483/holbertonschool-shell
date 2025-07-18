@@ -1,3 +1,5 @@
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png">
+
 # ⚙️ Projet : Redirection d'E/S et Filtres Shell - La Ligne de Commande en Action
 Bienvenue dans ce projet fondamental sur la redirection d'entrée/sortie (E/S) et l'utilisation des filtres dans le Shell Bash ! Ce module est essentiel pour automatiser des tâches, transformer des données et créer des scripts puissants. J'ai exploré ici comment diriger le flux d'informations entre les commandes et les fichiers, et comment manipuler du texte avec des outils courants.
 
