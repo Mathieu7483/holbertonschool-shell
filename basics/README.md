@@ -1,3 +1,5 @@
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png">
+
 # 🐚 Projet : Les Fondamentaux du Shell (Bash) - Maîtrise de la Ligne de Commande
 Bienvenue dans ce projet d'initiation au Shell Bash ! Ce module est le point de départ pour interagir efficacement avec un système Linux. J'ai exploré ici les commandes essentielles pour naviguer dans le système de fichiers, manipuler fichiers et répertoires, et comprendre les bases du fonctionnement des commandes.
 
