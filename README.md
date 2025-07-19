@@ -116,4 +116,4 @@ Par exemple : ./0-current_working_directory
 ```
 
 # ✍️ Auteur
-Mathieu GODALIER - Élève en programmation
+Mathieu GODALIER - Élève en programmation à la Holberton School
