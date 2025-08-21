@@ -1,4 +1,4 @@
-<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/holberton%20modif.png">
 
 # 🐚 Projet : Les Fondamentaux du Shell - Naviguer et Manipuler le Système
 Bienvenue dans ce projet d'initiation au Shell (Bash), l'interface en ligne de commande de Linux ! Ce projet est la première pierre angulaire de ma formation, me permettant de comprendre et d'interagir directement avec le système d'exploitation. J'ai exploré ici les commandes essentielles pour naviguer dans le système de fichiers, manipuler fichiers et répertoires, et comprendre les bases du fonctionnement des commandes.
