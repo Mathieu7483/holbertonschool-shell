@@ -1,4 +1,4 @@
-<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/holberton%20modif.png">
 
 # 🔐 Projet : Permissions - Maîtrise des Droits d'Accès Linux
 Ce projet explore un pilier central de tout système d'exploitation basé sur Unix/Linux : les permissions de fichiers et de répertoires. Comprendre comment les permissions fonctionnent et comment les gérer est indispensable pour la sécurité, l'administration système et même le développement.
