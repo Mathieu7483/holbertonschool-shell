@@ -1,4 +1,4 @@
-<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/holberton%20modif.png">
 
 # 🐚 Projet : Fichiers d'Initialisation, Variables et Expansions du Shell
 Ce projet est une plongée au cœur du Shell Bash, explorant les mécanismes qui régissent son comportement, de l'initialisation à la manipulation des données. J'ai appris comment le Shell se configure au démarrage, comment stocker et utiliser des informations avec des variables, et comment les expansions transforment les commandes avant leur exécution.
